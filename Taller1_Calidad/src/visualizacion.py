@@ -1,11 +1,13 @@
 
 def visualizar_calidad(ruta_archivo):
     """
-    Visualiza la calidad de los datos por secuencias segun la posicion.
-    Genera un grafico de dispersion por cada posicion vs la calidad de los datos.
+    Visualiza la calidad de los datos por secuencias segun la posición.
     
     Args:
-     (String) ruta del archivo de texto .fasta con datos de calidad .
+     (String) ruta del archivo de texto .fastq.
+     
+    returns:
+     (Plot) Genera un grafico de dispersion por cada posicion vs la calidad de los datos.
     """
     import pandas as pd
     import numpy as np
@@ -70,8 +72,7 @@ def visualizar_calidad(ruta_archivo):
     
     #calcular la desviacion estandar 
     desviacion_por_posicion = df_expandido_copia[cols_calidad].std(axis=0)
-    
-    
+
     #Graficar la calidad promedio con desviacion estandar vs posicion
     plt.figure(figsize=(12, 6))
     plt.errorbar(range(1, len(promedio_por_posicion) + 1), promedio_por_posicion, yerr=desviacion_por_posicion, fmt='o', color='black', ecolor='gray', elinewidth=3, capsize=0)
