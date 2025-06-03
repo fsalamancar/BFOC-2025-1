@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	A-LFC1	/Users/fjosesala/Documents/GitHub/BFOC-2025-1/Taller2_FASTQC/data/fastqc/output/A-LFC1_fastqc.zip
+FastQC	all_sections	A-LFC2	/Users/fjosesala/Documents/GitHub/BFOC-2025-1/Taller2_FASTQC/data/fastqc/output/A-LFC2_fastqc.zip
+FastQC	all_sections	B-LFC1	/Users/fjosesala/Documents/GitHub/BFOC-2025-1/Taller2_FASTQC/data/fastqc/output/B-LFC1_fastqc.zip
+FastQC	all_sections	B-LFC2	/Users/fjosesala/Documents/GitHub/BFOC-2025-1/Taller2_FASTQC/data/fastqc/output/B-LFC2_fastqc.zip
