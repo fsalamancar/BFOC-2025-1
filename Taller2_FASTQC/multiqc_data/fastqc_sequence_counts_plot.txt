@@ -1,0 +1,5 @@
+Sample	Unique Reads	Duplicate Reads
+A-LFC1	15856.0	9144.0
+A-LFC2	11034.0	13966.0
+B-LFC1	4313.0	687.0
+B-LFC2	4221.0	779.0

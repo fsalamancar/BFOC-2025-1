@@ -1,0 +1,5 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+A-LFC1	A-LFC1.fq	Conventional base calls	Illumina 1.5	25000.0	2.2 Mbp	0.0	90.0	45.0	63.424	90.0	90	pass	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass
+A-LFC2	A-LFC2.fq	Conventional base calls	Illumina 1.5	25000.0	2.2 Mbp	0.0	90.0	46.0	44.135999999999996	90.0	90	pass	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+B-LFC1	B-LFC1.fq	Conventional base calls	Illumina 1.5	5000.0	450 kbp	0.0	90.0	42.0	86.24000000000001	90.0	90	pass	pass	pass	pass	warn	warn	warn	pass	pass	fail	pass
+B-LFC2	B-LFC2.fq	Conventional base calls	Illumina 1.5	5000.0	450 kbp	0.0	90.0	42.0	84.42	90.0	90	pass	pass	pass	pass	fail	warn	pass	pass	pass	warn	pass

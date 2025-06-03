@@ -1,0 +1,5 @@
+Sample	Top overrepresented sequence	Sum of remaining overrepresented sequences
+A-LFC1	2.316	19.344
+A-LFC2	1.124	31.744000000000003
+B-LFC1	1.76	8.18
+B-LFC2	0.58	8.459999999999999
