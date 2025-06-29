@@ -8,25 +8,6 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
 
 ---
 
-## 📁 Estructura del repositorio
-
-Taller1_Calidad/ # Evaluación de calidad con FastQC
-└── src/ # Scripts y análisis
-
-Taller2_FASTQC/ # Consolidación de calidad con MultiQC
-├── data/fastqc/output/ # Resultados de FastQC
-└── images/ # Imágenes de reporte
-Taller3_Trimming/ # Recorte de secuencias
-├── fastp/ # Recorte con Fastp
-└── trimmomatic/ # Recorte con Trimmomatic
-Taller4_EnsamblajeDeNovo/ # Ensamblaje de novo
-├── megahit_out/ # Resultado de MEGAHIT
-└── velvet31/ # Resultado de Velvet
-
-
-
----
-
 ## 🧪 Talleres cubiertos
 
 1. **Taller 1 – Calidad de Lecturas**
