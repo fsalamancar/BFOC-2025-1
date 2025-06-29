@@ -12,6 +12,7 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
 
 Taller1_Calidad/ # Evaluación de calidad con FastQC
 └── src/ # Scripts y análisis
+
 Taller2_FASTQC/ # Consolidación de calidad con MultiQC
 ├── data/fastqc/output/ # Resultados de FastQC
 └── images/ # Imágenes de reporte
