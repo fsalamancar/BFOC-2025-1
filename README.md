@@ -25,6 +25,10 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
 4. **Taller 4 – Ensamblaje de novo**
    - Ensamblaje con MEGAHIT y Velvet
    - Comparación de métricas de contigs generados
+  
+4. **Taller 5 – Ensamblaje por referencia**
+   - Ensamblaje con BWA y SAMtools
+   - Observar lo ensamblado mediante TABLET
 
 ---
 
@@ -37,6 +41,9 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
 - Trimmomatic
 - MEGAHIT
 - Velvet
+- BWA
+- SamTools
+- Tablet
 
 ---
 
