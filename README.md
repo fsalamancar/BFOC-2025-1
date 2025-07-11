@@ -55,6 +55,8 @@ Este repositorio tiene fines académicos y documenta el proceso de análisis pas
 
 ## 👤 Autor
 
-Francisco Salamanca  
-Estudiante de Maestría en Bioinformática – UNAL  
-[GitHub: fsalamancar](https://github.com/fsalamancar)
+**Francisco Salamanca**  
+_Bioinformatician | MSc in Bioinformatics_  
+Universidad Nacional de Colombia | Institute of Clinical Molecular Biology (IKMB)
+
+🔗 [GitHub](https://github.com/fsalamancar) • [Website](https://fsalamancar.github.io/) • [LinkedIn](https://www.linkedin.com/in/fjosesala/) • [IKMB](https://www.ikmb.uni-kiel.de/people/francisco-salamanca/)
