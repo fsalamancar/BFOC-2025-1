@@ -26,9 +26,14 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
    - Ensamblaje con MEGAHIT y Velvet
    - Comparación de métricas de contigs generados
   
-4. **Taller 5 – Ensamblaje por referencia**
+5. **Taller 5 – Ensamblaje por referencia**
    - Ensamblaje con BWA y SAMtools
    - Observar lo ensamblado mediante TABLET
+
+6. **Taller 6 – Anotación Procariota**
+   - Anotación con Prokka y Docker de un ensamblaje deNovo
+     del taller 4
+
 
 ---
 
@@ -44,6 +49,7 @@ Los talleres abordan diferentes etapas del análisis de datos ómicos, desde el 
 - BWA
 - SamTools
 - Tablet
+- Prokka
 
 ---
 
